@@ -1,3 +1,4 @@
+/* global $ */
 $('document').ready(function () {
   const amenities = {};
   $('INPUT[type="checkbox"]').change(function () {
